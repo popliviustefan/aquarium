@@ -1,0 +1,21 @@
+body{
+	--background-color:#e1e0e5;
+	--font-size:180%;
+}
+
+button, input{
+	--font-size:150%;
+	--width:80%;
+	--height:120%;
+	--margin-top:20px;
+	--margin-left:10%;
+}
+
+div{
+	--background-color:#c1c6ca;
+	--width:600px;
+}
+
+p{
+	text-align:centre;
+}

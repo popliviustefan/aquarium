@@ -1,0 +1,4 @@
+todo.txt
+/python/test*
+/python/modules/__pycache__
+/python/modules/*.pyc
